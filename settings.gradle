@@ -1,0 +1,3 @@
+include ':AdityaToastLibrary'
+include ':app'
+rootProject.name = "AdityaToastMaker"
